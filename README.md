@@ -1,4 +1,4 @@
-# Netowork simulator project
+# Network simulator project
 
 ## Overview
 
